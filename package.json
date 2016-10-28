@@ -1,0 +1,29 @@
+{
+  "name": "jsdr",
+  "version": "0.1.0",
+  "description": "JavaScript Defined Radio",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "eslint lib/*.js && mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/jsdr.git"
+  },
+  "keywords": [
+    "SDR",
+    "DSP"
+  ],
+  "author": "alex.drom@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drom/jsdr/issues"
+  },
+  "homepage": "https://github.com/drom/jsdr#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.8.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2"
+  }
+}
