@@ -1,0 +1,5 @@
+{
+    "name": "WebUSB-demo",
+    "main": "index.html",
+    "chromium-args": "--enable-logging=stderr"
+}
