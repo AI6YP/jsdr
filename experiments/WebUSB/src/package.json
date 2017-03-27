@@ -1,5 +1,8 @@
 {
     "name": "WebUSB-demo",
     "main": "index.html",
-    "chromium-args": "--enable-logging=stderr"
+    "chromium-args": "--enable-logging=stderr --enable-experimental-web-platform-features --disable-webusb-security --enable-webusb",
+    "window": {
+        "toolbar": true
+    }
 }
