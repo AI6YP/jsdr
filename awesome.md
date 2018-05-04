@@ -2,6 +2,7 @@
 ## Libs
 
   * GNU Radio
+  * https://github.com/jgaeddert/liquid-dsp
   * https://github.com/pothosware/SoapySDR
   * https://github.com/kartikp1995/gr-bokehgui
   * https://github.com/kpreid/shinysdr
